@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Unidad1</string>
+    <string name="calculate">Calculate</string>
+    <string name="value_of_x">Value of X:</string>
+    <string name="value_x">Value of X:</string>
+    <string name="value_y">Value of Y:</string>
+    <string name="valueY">Value of Y:</string>
+    <string name="the_operation_is_5x_2_2y_5">The operation is: (5x -2) (2y - 5)</string>
+    <string name="third_excercise">Third excercise</string>
+    <string name="first_excersice">First Excersice</string>
+    <string name="second_excersice">Second excersice</string>
+    <string name="valo_of_y">valo of Y:</string>
+    <string name="firstexcersice">First Excersice</string>
+    <string name="third_excersice">Third Excersice</string>
+    <string name="second_excercise">Second excercise</string>
+    <string name="third_excercise_3">Third excercise</string>
+    <string name="first_excercise">First excercise</string>
+    <string name="second_excercise_2">Second excercise</string>
+    <string name="operation_3">the operation is: 3{x(x) - 5[x + 2(3 - 5x)]}</string>
+    <string name="operation_1">Operation: (2x + 1 ) (3y-4)</string>
+    <string name="the_operation_2">the operation is:(5x-2)(2y-5)</string>
+</resources>
